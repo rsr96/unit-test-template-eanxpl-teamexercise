@@ -8,6 +8,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 })
 export class AppComponent implements AfterViewInit {
   title = 'NoSniffOptionTest';
+  color = '';
 
   constructor(private http: HttpClient) {}
 
