@@ -25,7 +25,8 @@
     "require-context": "1.1.0",
     "rxjs": "6.3.3",
     "tslib": "1.9.3",
-    "zone.js": "0.8.29"
+    "zone.js": "0.8.29",
+    "angular-in-memory-web-api": "~0.11.0"
   },
   "scripts": {
     "ng": "ng",
